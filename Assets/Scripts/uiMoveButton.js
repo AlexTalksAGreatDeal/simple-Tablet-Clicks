@@ -10,8 +10,10 @@ function Start ()
 
 player01 = gameObject.Find("player01");
 
-
 }//end start
+
+
+
 
 
  //from http://answers.unity3d.com/questions/242983/change-materialstextures-on-mouse-click.html

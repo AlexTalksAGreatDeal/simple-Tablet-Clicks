@@ -32,6 +32,19 @@ function Update () {
 	rigidbody.MovePosition(rigidbody.position + movementDirection * Time.deltaTime);
 //from http://docs.unity3d.com/Documentation/ScriptReference/Rigidbody.MovePosition.html
 
+
+for (var i = 0; i < Input.touchCount; ++i) 
+	{
+		var touch = Input.GetTouch(i);
+		Debug.Log(touch);
+		var transFactor = 0.1*i;
+	}
+	
+if (!isMoving && !isAttacking && !isBlocking) {
+gameObject.renderer.material.color = Color(0.5, 0.5, 0.5, transFactor);
+}
+
+
 }//end update
 
 //Stop Moving function
