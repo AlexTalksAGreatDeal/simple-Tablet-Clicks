@@ -1,6 +1,8 @@
 ﻿#pragma strict
 
 public var moveDirection : String;
+public var stopCommand : String;
+
 public var player01 : GameObject;
 
 function Start ()
@@ -28,7 +30,7 @@ function OnMouseUp ()
  
 {
 
-player01.SendMessage("stopMoving"); //stop moving when the player releases the button.
+player01.SendMessage(stopCommand); //stop moving when the player releases the button.
 
 // Debug.Log("move Not Holding");
 
