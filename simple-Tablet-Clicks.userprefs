@@ -1,6 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\uiMoveButton.js">
+    <Files>
+      <File FileName="Assets\Scripts\objectMovement.js" Line="35" Column="18" />
+      <File FileName="Assets\Scripts\changeTexOnClick.js" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\uiMoveButton.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

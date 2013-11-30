@@ -65,9 +65,11 @@
      <Compile Include="Assets\Imported\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" />
      <Compile Include="Assets\Imported\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Imported\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
-     <Compile Include="Assets\Scripts\changeTexOnClick.js" />
      <Compile Include="Assets\Scripts\loadFirstLevel.js" />
+     <Compile Include="Assets\Scripts\objectMovement.js" />
      <Compile Include="Assets\Scripts\simpleRotation.js" />
+     <Compile Include="Assets\Scripts\uiChangeTexOnClick.js" />
+     <Compile Include="Assets\Scripts\uiMoveButton.js" />
      <None Include="Assets\Imported\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Imported\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Imported\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
