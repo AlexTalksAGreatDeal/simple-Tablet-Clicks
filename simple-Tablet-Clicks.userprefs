@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\uiMoveButton.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\objectMovement.js">
     <Files>
-      <File FileName="Assets\Scripts\objectMovement.js" Line="35" Column="18" />
-      <File FileName="Assets\Scripts\changeTexOnClick.js" Line="6" Column="1" />
-      <File FileName="Assets\Scripts\uiMoveButton.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\objectMovement.js" Line="28" Column="55" />
+      <File FileName="Assets\Scripts\uiMoveButton.js" Line="31" Column="87" />
+      <File FileName="Assets\Scripts\loadFirstLevel.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

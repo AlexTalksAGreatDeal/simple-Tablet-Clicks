@@ -18,7 +18,8 @@ function  OnMouseDown()
 
 //Debug.Log(moveDirection);
 
-player01.SendMessage(moveDirection);
+
+player01.SendMessage(moveDirection); //send the command to move. Direction is designated in the Explorer via the public variable.
 
 
 }//from Mouse click
@@ -26,6 +27,9 @@ player01.SendMessage(moveDirection);
 function OnMouseUp ()
  
 {
+
+player01.SendMessage("stopMoving"); //stop moving when the player releases the button.
+
 // Debug.Log("move Not Holding");
 
  
