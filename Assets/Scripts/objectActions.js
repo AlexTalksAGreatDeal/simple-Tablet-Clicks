@@ -81,11 +81,13 @@ function stopBlocking()
 		
 		if (isAttacking && !isBlocking) //only move when not attacking or blocking
 		{
+		gameObject.renderer.material.color = Color(1, 0.5, 1);
 		    Debug.Log("Attack North");
 		}
 				
 		if (!isAttacking && isBlocking) //only move when not attacking or blocking
 		{
+				gameObject.renderer.material.color = Color(0.75, 1, 1);
 		    Debug.Log("Block North");
 		}
 		

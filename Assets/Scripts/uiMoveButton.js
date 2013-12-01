@@ -12,7 +12,12 @@ player01 = gameObject.Find("player01");
 
 }//end start
 
+function touchAction() //will be activated by SendMessage from Touch Detector
+{
 
+player01.SendMessage(moveDirection); //send the command to move. Direction is designated in the Explorer via the public variable.
+
+}
 
 
 
