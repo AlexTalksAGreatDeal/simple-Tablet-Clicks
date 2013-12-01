@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{39637632-3E94-1B5B-F8AA-24A8CA4C8000}") = "simple-Tablet-Clicks", "Assembly-CSharp.csproj", "{150D9448-4C77-5D19-0AA6-3044058CD247}"
 EndProject
+Project("{39637632-3E94-1B5B-F8AA-24A8CA4C8000}") = "simple-Tablet-Clicks", "Assembly-CSharp-Editor.csproj", "{025A5B8C-43D4-2345-E8B7-FA1B53BA2FDA}"
+EndProject
 Project("{39637632-3E94-1B5B-F8AA-24A8CA4C8000}") = "simple-Tablet-Clicks", "Assembly-UnityScript.unityproj", "{A032B3B6-8461-01C0-7111-C690DD3FA8EE}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{150D9448-4C77-5D19-0AA6-3044058CD247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{150D9448-4C77-5D19-0AA6-3044058CD247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{150D9448-4C77-5D19-0AA6-3044058CD247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025A5B8C-43D4-2345-E8B7-FA1B53BA2FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025A5B8C-43D4-2345-E8B7-FA1B53BA2FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025A5B8C-43D4-2345-E8B7-FA1B53BA2FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025A5B8C-43D4-2345-E8B7-FA1B53BA2FDA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A032B3B6-8461-01C0-7111-C690DD3FA8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A032B3B6-8461-01C0-7111-C690DD3FA8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A032B3B6-8461-01C0-7111-C690DD3FA8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,7 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-															GlobalSection(MonoDevelopProperties) = preSolution
+																			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
