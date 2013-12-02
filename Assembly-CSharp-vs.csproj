@@ -65,6 +65,7 @@
      <Compile Include="Assets\Imported\TouchScript\Examples\Input\Scripts\InputExample.cs" />
      <Compile Include="Assets\Imported\TouchScript\Examples\Input\Scripts\InputExample_Ball.cs" />
      <Compile Include="Assets\Scripts\Breaker.cs" />
+     <Compile Include="Assets\Scripts\ui_TS_ChangeTextureButton.cs" />
      <None Include="Assets\Imported\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Imported\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Imported\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
